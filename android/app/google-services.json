@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "818606665197",
+    "project_id": "chatsxapp",
+    "storage_bucket": "chatsxapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818606665197:android:bbdddc65ccb6c901868be4",
+        "android_client_info": {
+          "package_name": "com.alamsyah.chatsx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "818606665197-4sakojlecuobit5mmffgf11deq11mlvf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alamsyah.chatsx",
+            "certificate_hash": "04a587efac94e7b589f67a93d3a738c134d2a3ef"
+          }
+        },
+        {
+          "client_id": "818606665197-j1sce9ac1051o23400gnv1b9scg5qrs5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdAnkaJsqJFsViKcMobJs7SuJbgjqJy2M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "818606665197-j1sce9ac1051o23400gnv1b9scg5qrs5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "818606665197-l4sqk07j3p293incqeh3vcpqampge6p1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.alamsyah.chatsx"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

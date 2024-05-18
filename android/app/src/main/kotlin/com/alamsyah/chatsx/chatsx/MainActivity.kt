@@ -1,4 +1,4 @@
-package com.alamsyah.chatsx.chatsx
+package com.alamsyah.chatsx
 
 import io.flutter.embedding.android.FlutterActivity
 
